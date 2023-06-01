@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+title: Best Paper Award at BraSNAM 2022
+date: 2022-08-05 16:11:00-0400
 inline: true
-related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Our paper <a href="https://sol.sbc.org.br/index.php/brasnam/article/view/20515">Alertas de fraude em licitações: Uma abordagem baseada em redes sociais</a> (<i>Fraud alerts in public bids: A network-based approach</i>) received the Best Paper Award at BraSNAM 2022.
