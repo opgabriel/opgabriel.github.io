@@ -92,6 +92,18 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - title: Best Master's Thesis
+      institution: 5th Contest of Theses and Dissertations on Databases - Brazilian Symposium on Databases
+      year: 2023
+      description: |-
+        Prize awarded for my Master's thesis <i>Analyses of musical success based on time, genre and collaboration.</i>
+    
+    - title: Best Paper Award
+      institution: 11th Workshop on Applied Computing in Electronic Government
+      year: 2023
+      description: |-
+        Prize awarded for the paper <i>Análise de Sobrepreço em Itens de Licitações Públicas.</i>
+
     - title: Best Paper Award
       institution: 11th Brazilian Workshop on Social Network Analysis and Mining
       year: 2022
@@ -103,12 +115,6 @@
       year: 2021
       description: |-
         Prize awarded for the paper <i>Hot Streaks in the Brazilian Music Market: A Comparison Between Physical and Digital Eras.</i>
-    
-    - title: Best Paper Award - 1st Runner Up
-      institution: 10th Brazilian Workshop on Social Network Analysis and Mining
-      year: 2021
-      description: |-
-        Prize awarded for the paper <i>Exploring Brazilian Cultural Identity Through Reading Preferences.</i>
 
     - title: Best Undergraduate Research Work
       institution: 26th Brazilian Symposium on Multimedia and Web
