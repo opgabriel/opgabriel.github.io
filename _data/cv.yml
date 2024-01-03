@@ -6,7 +6,7 @@
     - name: Contact
       value: gabrielpoliveira [at] dcc [dot] ufmg [dot] br
     - name: Languages
-      value: Portuguese (native), English (advanced), Italian (intermediate), Spanish (beginner)
+      value: Portuguese (native), English (advanced), Italian (intermediate), Spanish (basic)
 
 - title: Education
   type: time_table
@@ -16,8 +16,6 @@
       year: 2021 - present
       description:
         - Co-advised by <a href='http://www.dcc.ufmg.br/~mirella'>Prof. Mirella M. Moro</a> and <a href='http://www.dcc.ufmg.br/~ana.coutosilva'>Prof. Ana Paula Couto da Silva</a>
-        - |-
-            Dissertation subject: Complex contagion
     - title: MSc in Computer Science
       institution: Universidade Federal de Minas Gerais (UFMG), Belo Horizonte, Brazil
       year: 2019 - 2021
@@ -36,7 +34,7 @@
             GPA: 91.3 out of 100
         - |-
             Undergraduate thesis: <i>Tie Strength in GitHub Heterogeneous Networks</i>
-    - title: Technical Degree in Computer Networks
+    - title: High School Technical Degree in Computer Networks
       institution: Centro Federal de Educação Tecnológica de Minas Gerais (CEFET-MG), Belo Horizonte, Brazil
       year: 2012 - 2014
 
@@ -45,7 +43,7 @@
   contents:
     
     - title: Data Scientist
-      institution: Universidade Federal de Minas Gerais + Ministério Público de Minas Gerais
+      institution: Universidade Federal de Minas Gerais + Ministério Público do Estado de Minas Gerais
       year: 2021 - present
       description: 
         - Member of the Analytical Capabilities Project, conducted jointly by UFMG's Computer Science Department and Ministério Público do Estado de Minas Gerais (MPMG). 
@@ -53,7 +51,7 @@
     
     - title: Research Assistant
       institution: Project Bàde, Universidade Federal de Minas Gerais
-      year: 2019 - present
+      year: 2019 - 2023
       description:
         - This project aims to define semantic metrics based on data from social networks in order to develop different applications and services for them.
     
@@ -103,6 +101,12 @@
       year: 2023
       description: |-
         Prize awarded for the paper <i>Análise de Sobrepreço em Itens de Licitações Públicas.</i>
+
+    - title: Best Master's Thesis - Runner-up
+      institution: 35th Contest of Theses and Dissertations on Databases - Congress of the Brazilian Computer Society
+      year: 2022
+      description: |-
+        One of the ten Master theses selected for presentation at the Theses and Dissertations Contest of the Congress of the Brazilian Computer Society.
 
     - title: Best Paper Award
       institution: 11th Brazilian Workshop on Social Network Analysis and Mining
