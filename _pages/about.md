@@ -18,6 +18,6 @@ social: false  # includes social icons at the bottom of the page
 
 I am a PhD Student at the Computer Science Graduate Program of Universidade Federal de Minas Gerais (<a href='https://ppgcc.dcc.ufmg.br/en/'>PPGCC/UFMG</a>) in Belo Horizonte, Brazil. I obtained my MSc and BSc degrees in Computer Science from the same university in 2021 and 2018, respectively. 
 
-I am currently a member of the <a href='http://www.labcsx.dcc.ufmg.br'>Laboratory of Interdisciplinary Computer Science (CS+X)</a> and my research is focused on data analysis on collaborative domains, such as music and social coding. My work experience and research interests in Computer Science have a strong emphasis on data science and social network analysis.
+I am currently a member of the <a href='http://www.labcsx.dcc.ufmg.br'>Laboratory of Interdisciplinary Computer Science (CS+X)</a> and I am working as a Data Scientist in the Analytical Capabilities Project (DCC/UFMG and GSI/MPMG). My research interests include data science, social computing, music information retrieval and complex networks.
 
 If you need, contact me at <b>gabrielpoliveira [at] dcc [dot] ufmg [dot] br</b>
