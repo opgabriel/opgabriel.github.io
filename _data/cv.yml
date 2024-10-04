@@ -16,6 +16,10 @@
       year: 2021 - present
       description:
         - Co-advised by <a href='http://www.dcc.ufmg.br/~mirella'>Prof. Mirella M. Moro</a> and <a href='http://www.dcc.ufmg.br/~ana.coutosilva'>Prof. Ana Paula Couto da Silva</a>
+        - |-
+            Visiting student at Politecnico di Torino, Italy (2024-2025).
+        - |-
+            Thesis: <i>Analyses of Musical Success based on Time, Genre and Collaboration</i>
     - title: MSc in Computer Science
       institution: Universidade Federal de Minas Gerais (UFMG), Belo Horizonte, Brazil
       year: 2019 - 2021
@@ -43,7 +47,7 @@
   contents:
     
     - title: Data Scientist
-      institution: Universidade Federal de Minas Gerais + Ministério Público do Estado de Minas Gerais
+      institution: Universidade Federal de Minas Gerais and Ministério Público do Estado de Minas Gerais
       year: 2021 - present
       description: 
         - Member of the Analytical Capabilities Project, conducted jointly by UFMG's Computer Science Department and Ministério Público do Estado de Minas Gerais (MPMG). 
@@ -56,7 +60,7 @@
         - This project aims to define semantic metrics based on data from social networks in order to develop different applications and services for them.
     
     - title: Data Science Intern
-      institution: Universidade Federal de Minas Gerais + Localiza
+      institution: Universidade Federal de Minas Gerais and Localiza
       year: 2019
       description: 
         - Member of the Data Science Residency Program conducted jointly by UFMG's Computer Science Department and Localiza, a specialized company in car rentals in Brazil and Latin America.
@@ -90,6 +94,12 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - title: Best Paper Award
+      institution: 51st 51st Integrated Software and Hardware Seminar
+      year: 2024
+      description: |-
+        Prize awarded for the paper <i>Analyzing the temporal relation between virality and success in the Brazilian music market.</i>
+
     - title: Best Master's Thesis
       institution: 5th Contest of Theses and Dissertations on Databases - Brazilian Symposium on Databases
       year: 2023
