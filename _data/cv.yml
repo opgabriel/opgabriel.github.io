@@ -95,7 +95,12 @@
   type: time_table
   contents:
     - title: Best Paper Award
-      institution: 51st 51st Integrated Software and Hardware Seminar
+      institution: 6th Dataset Showcase Workshop
+      year: 2024
+      description: |-
+        Prize awarded for the paper <i>ICPSet: A Structured Dataset of Public Procurement Items.</i>
+    - title: Best Paper Award
+      institution: 51st Integrated Software and Hardware Seminar
       year: 2024
       description: |-
         Prize awarded for the paper <i>Analyzing the temporal relation between virality and success in the Brazilian music market.</i>
@@ -112,7 +117,7 @@
       description: |-
         Prize awarded for the paper <i>Análise de Sobrepreço em Itens de Licitações Públicas.</i>
 
-    - title: Best Master's Thesis - Runner-up
+    - title: Best Master's Thesis - Finalist
       institution: 35th Contest of Theses and Dissertations on Databases - Congress of the Brazilian Computer Society
       year: 2022
       description: |-
