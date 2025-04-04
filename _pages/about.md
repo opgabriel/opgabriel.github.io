@@ -16,8 +16,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a PhD Candidate at the Computer Science Graduate Program of Universidade Federal de Minas Gerais (<a href='https://ppgcc.dcc.ufmg.br/en/'>PPGCC/UFMG</a>) in Belo Horizonte, Brazil and I am currently visiting Politecnico di Torino (Italy), hosted by the <a href="https://smartdata.polito.it/"> SmartData@PoliTO</a> center and the <a href="https://www.telematica.polito.it/">TNG Group</a>. I obtained my MSc and BSc degrees in Computer Science from UFMG in 2021 and 2018, respectively. 
+Hi! 👋 I’m a PhD candidate in Computer Science at Universidade Federal de Minas Gerais (<a href='https://ppgcc.dcc.ufmg.br/en/'>UFMG</a>), co-advised by Prof. Mirella M. Moro and Prof. Ana Paula Couto da Silva. During my PhD, I visited Politecnico di Torino (Italy), where I was hosted by the <a href="https://smartdata.polito.it/">SmartData@PoliTO</a> center and the <a href="https://www.telematica.polito.it/">TNG Group</a>.
 
-I am a member of the <a href='http://www.labcsx.dcc.ufmg.br'>Laboratory of Interdisciplinary Computer Science (CS+X)</a> at UFMG and I worked as a Data Scientist in the Analytical Capabilities Project (a collaboration between DCC/UFMG and GSI/MPMG). My research interests include data science, social computing, music information retrieval and complex networks.
+I hold an MSc (2021) and a BSc (2018) in Computer Science from UFMG. Currently, I'm a member of the <a href='http://www.labcsx.dcc.ufmg.br'>Laboratory of Interdisciplinary Computer Science (CS+X)</a> and I previously worked as a Data Scientist on the Analytical Capabilities Project, a collaboration between DCC/UFMG and GSI/MPMG.
 
-If you need, contact me at <b>gabrielpoliveira [at] dcc [dot] ufmg [dot] br</b>
+My research is driven by my passion for data science, social computing, music information retrieval, and complex networks — exploring how data shapes the way we interact, create, and share information.
+
+Feel free to reach out at <b>gabrielpoliveira [at] dcc [dot] ufmg [dot] br</b>.
