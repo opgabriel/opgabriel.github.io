@@ -70,7 +70,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username: opgabriel # your GitHub user name
 gitlab_username: # your GitLab user name
-twitter_username: gpdoliveira # your Twitter handle
+twitter_username: # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: gabrielpdoliveira # your LinkedIn user name
 telegram_username: # your Telegram user name
@@ -83,7 +83,7 @@ quora_username: # your Quora username
 publons_id: # your ID on Publons
 lattes_id: 8985738586037117 # your ID on Lattes (Brazilian Lattes CV)
 osf_id: # your OSF ID
-research_gate_profile: # your profile on ResearchGate
+research_gate_profile: Gabriel-Oliveira-18 # your profile on ResearchGate
 scopus_id: # your profile on Scopus
 blogger_url: # your blogger URL
 work_url: # work page URL

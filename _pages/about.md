@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <b>Data Scientist | PhD Candidate</b>
+subtitle: <b>Data Scientist and Researcher</b>
 
 profile:
   align: right
