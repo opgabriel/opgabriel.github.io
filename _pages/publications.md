@@ -10,7 +10,7 @@ nav_order: 2
 <!-- _pages/publications.md -->
 <div class="publications">
 
-<h1> master's thesis </h1>
+<h1> phd & master's theses </h1>
 {% bibliography -f {{ site.scholar.theses }} -q @*[type=mastersthesis]* %}
 
 </div>
